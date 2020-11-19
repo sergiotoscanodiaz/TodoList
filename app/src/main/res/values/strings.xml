@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">toDO List</string>
+
+    <!-- Hints -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+
+    <!-- Etiquetas -->
+    <string name="lab_entrar">Entrar</string>
+    <string name="lab_registrar">Registrar</string>
+
+    <!-- Errores -->
+    <string name="err_login">Nombre de usuario o contraseña incorrecta</string>
+
+</resources>
